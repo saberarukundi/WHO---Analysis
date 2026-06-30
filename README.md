@@ -107,7 +107,7 @@ The project includes various visualizations such as:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/exploratory-data-analysis.git
+git clone https://github.com/saberarukundi/WHO---Analysis.git
 ```
 
 ### 2. Navigate to the Project Folder
@@ -174,7 +174,7 @@ The notebook provides:
 
 ## 👤 Author
 
-**Your Name**
+**Sabera Rukundi**
 
 - 💼 Data Analyst
 - 🐍 Python Developer
